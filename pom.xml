@@ -2,9 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.example</groupId>
-  <artifactId>myspring</artifactId>
+  <artifactId>aether-ioc</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>Archetype - myspring</name>
+  <name>AetherIoC</name>
   <url>http://maven.apache.org</url>
 
   <dependencies>

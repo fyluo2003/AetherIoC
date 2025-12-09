@@ -1,6 +1,6 @@
-# Spring IoC 核心思想的迷你实现 🚀
+# AetherIoC · Spring IoC 核心思想的迷你实现 🚀
 
-用少量代码还原 Spring IoC 容器的关键流程：包扫描、Bean 定义、实例化、`@Value` 赋值、`@Autowired` 按类型/按名称注入，并提供 Servlet 与简单业务代码演示。
+AetherIoC 用少量代码还原 Spring IoC 容器的关键流程：包扫描、Bean 定义、实例化、`@Value` 赋值、`@Autowired` 按类型/按名称注入，并提供 Servlet 与简单业务代码演示。
 
 ## 🗂️ 模块地图
 - `com.cloudfly03.myspring.*`：自研 IoC 核心  
